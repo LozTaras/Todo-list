@@ -1,0 +1,8 @@
+.item-add-form {
+    margin-top: 10px;
+}
+
+.item-add-form .btn {
+    flex-shrink: 0;
+    margin-left: 5px;
+}
