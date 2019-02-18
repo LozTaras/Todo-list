@@ -1,4 +1,5 @@
-Для запуска на локальной машине:
-clone this repository
-npm install
-npm start
+### Для запуска на локальной машине:
+
+1. clone this repository
+2. npm install
+3. npm start
